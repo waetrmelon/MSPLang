@@ -1,0 +1,14 @@
+Icons:
+Done => ✅
+Currently Doing => ⌨️
+Havent Started => ❌
+
+Add Numeric Literals: [✅]
+Add (- / *) [+ Already Added]: [✅]
+Throw Errors and then Exit: [✅]
+Add Concatenation using ",": [✅]
+
+Add Conditional Statements: [❌]
+Add Input Function: [❌]
+Add Loops: [❌]
+Add Smart Interpreter (Suggests fixes etc, similar to Rust's helpful compiler): [❌]
